@@ -1,0 +1,11 @@
+from django.urls import include, path, re_path
+from rest_framework import routers
+
+# Create your routers and urls here.
+
+
+# from views import ExampleViewSet
+# router = routers.DefaultRouter()
+# router.register(r'example', ExampleViewSet)
+#
+# urlpatterns = [path('', include(router.urls)), ]
