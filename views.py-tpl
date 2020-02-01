@@ -3,6 +3,6 @@ from rest_framework import viewsets
 # Create your views here.
 
 # from . import serializers, models
-# class ShopNetworkViewSet(viewsets.ModelViewSet):
+# class ExampleViewSet(viewsets.ModelViewSet):
 #     queryset = models.Example.objects.all()
 #     serializer_class = serializers.ExampleSerializer
